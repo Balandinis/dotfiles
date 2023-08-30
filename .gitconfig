@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Balandinis
+	email = titaskrvls@gmail.com
+[color]
+	ui = auto
+[pull]
+	rebase = false
