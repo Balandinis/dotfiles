@@ -6,3 +6,4 @@ Currently available:
 
 zshrc
 gitcommit
+neovim
